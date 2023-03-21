@@ -1,6 +1,15 @@
 ---
-title: "My Website"
+title: "Steven's Webpage"
+author: "Steven Cox"
+date: "3/21/2023"
+output: html_document
 ---
 
-Hello, Website!
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
+# Home Page
+
+
+### Please check out "About Me" along with other tabs that represent some of the work and analyses that I have completed.  
