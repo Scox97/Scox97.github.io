@@ -8,3 +8,5 @@ navbar:
       href: about.html
     - text: "Beer Case Study"
       href: Case-Study-1-Group-4.html
+    - text: "Stat 1 - Ames Case Study"
+      href: DS6371_Project1_Brooks_Cox.pdf
