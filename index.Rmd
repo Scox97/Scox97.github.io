@@ -1,7 +1,5 @@
 ---
 title: "Steven's Webpage"
-author: "Steven Cox"
-date: "3/21/2023"
 output: html_document
 ---
 
@@ -9,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Home Page
+### See links above for previous projects.
 
 
   
